@@ -9,9 +9,11 @@ This is a classic game "Snake" written on C++ language.
 ## Instalation
 - https:
 ```bash
+  git clone https://github.com/SANEKDASH/SnakeTheGame.git
 ```
 - ssh:
 ```bash
+  git clone git@github.com:SANEKDASH/SnakeTheGame.git
 ```
 
 To run the snake with the SFML graphics you need to install SFML library:
